@@ -52,4 +52,6 @@ sys 0m0.102s
 
 well, two compiled languages give me a better fraction `99733/31746`, and the interpreted language gives me `(99733/31746)`.
 
-but like, using floating points is nowhere near where i'd thought it would have been in 2024.
+plugging this number into a calculator, this seems only slightly better than `22/7`, so that's cool.
+
+using floating points is nowhere near where i'd thought it would have been in 2024. the future is crazy.
